@@ -1,0 +1,10 @@
+- Commandment 1: You shall have no other gods before Me (prohibition: worshiping idols or false gods).
+- Commandment 2: You shall not make for yourself a carved image, nor bow down to them, nor serve them (prohibition: creating and worshipping images of any kind).
+- Commandment 3: You shall not take the name of the LORD your God in vain (prohibition: using God's name lightly or irreverently).
+- Commandment 4: Remember the Sabbath day, to keep it holy. Six days you shall labor and do all your work, but the seventh day is a sabbath of the LORD your God; in it you shall not do any work (prohibition: working on the Sabbath).
+- Commandment 5: Honor your father and mother that your days may be long upon the land which the LORD your God is giving you (command: respecting parents and obeying their instructions).
+- Commandment 6: You shall not murder (prohibition: taking another person's life intentionally).
+- Commandment 7: You shall not commit adultery (prohibition: engaging in sexual relations with someone else's spouse or partner).
+- Commandment 8: You shall not steal (prohibition: taking someone else's property without permission).
+- Commandment 9: You shall not bear false witness against your neighbor (prohibition: lying about another person, especially in a court of law).
+- Commandment 10: You shall not covet anything that belongs to your neighbor (prohibition: desiring or wanting something that is not yours with the intention of taking it unjustly).

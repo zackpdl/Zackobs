@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Personal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bcd8063c349f680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Anime List.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e17d006af70715f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Balancing BST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6609922937e3aae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anime List.md",
+                "file": "Maths Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anime List.md",
+                "file": "Maths Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anime List.md"
+                "file": "Maths Exam.md"
               }
             }
           }
@@ -146,11 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bb369bce2f0ff91",
+  "active": "6609922937e3aae9",
   "lastOpenFiles": [
-    "zack-obs",
+    "Balancing BST.md",
+    "Maths Exam.md",
+    "2024-09-22.md",
+    "MST IN OUT.md",
+    "villageout.png",
+    "villagein.png",
+    "u2out.png",
+    "2in.png",
+    "1.out.png",
+    "1in.png",
+    "Anime List.md",
+    "001 University/CSX2008 - MATHEMATICS FOUNDATION FOR COMPUTER SCIENCE Outline.md",
+    "Worksheet 10.md",
     "Personal.md",
-    "Home.md",
-    "Anime List.md"
+    "Algorithms-And-Data-Structures/notes/sorting.md",
+    "Algorithms-And-Data-Structures/notes/graphs.md",
+    "Algorithms-And-Data-Structures/notes/data_structures.md",
+    "Algorithms-And-Data-Structures/notes/brain_teasers.md",
+    "Algorithms-And-Data-Structures/notes/backtracking.md",
+    "Algorithms-And-Data-Structures/src/graphs/python/prim/tests/test_prim.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/prim/tests/__init__.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/prim/src/prim.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/prim/src/graph.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/prim/src/__init__.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/kruskal/tests/test_kruskal.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/kruskal/tests/__init__.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/kruskal/src/kruskal.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/kruskal/src/graph.py",
+    "Algorithms-And-Data-Structures/src/graphs/python/kruskal/src/__init__.py",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/subarray_sum/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/sparse_vectors_product/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/score_after_flipping_matrix/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/range_sum_of_bst/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/randomize_array/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/lru_cache/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/lowest_common_ancestor/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/k_closest_points/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/is_palindrome_after_char_deletion/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/design_browser_history/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/deletions_to_make_valid_parentheses/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/bst_to_list/README.md",
+    "Algorithms-And-Data-Structures/src/brain_teasers/python/binary_tree_right_side_view/README.md",
+    "Reference/Pasted image 20240826093205.png",
+    "Reference/IMG_7501.jpg",
+    "Reference/Screenshot 2567-08-25 at 12.51.51.png",
+    "Reference/IMG_6155.jpeg"
   ]
 }

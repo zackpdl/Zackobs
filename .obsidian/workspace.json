@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "706e3c72d158e9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SE Finals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Exam.md",
+                "file": "SE Finals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Exam.md",
+                "file": "SE Finals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths Exam.md"
+                "file": "SE Finals.md"
               }
             }
           }
@@ -180,13 +192,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6609922937e3aae9",
+  "active": "706e3c72d158e9a3",
   "lastOpenFiles": [
-    "Balancing BST.md",
     "Maths Exam.md",
+    "SE Finals.md",
+    "Balancing BST.md",
     "2024-09-22.md",
     "MST IN OUT.md",
     "villageout.png",
@@ -226,7 +241,6 @@
     "Algorithms-And-Data-Structures/src/brain_teasers/python/design_browser_history/README.md",
     "Algorithms-And-Data-Structures/src/brain_teasers/python/deletions_to_make_valid_parentheses/README.md",
     "Algorithms-And-Data-Structures/src/brain_teasers/python/bst_to_list/README.md",
-    "Algorithms-And-Data-Structures/src/brain_teasers/python/binary_tree_right_side_view/README.md",
     "Reference/Pasted image 20240826093205.png",
     "Reference/IMG_7501.jpg",
     "Reference/Screenshot 2567-08-25 at 12.51.51.png",

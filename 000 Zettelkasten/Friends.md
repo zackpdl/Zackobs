@@ -20,4 +20,11 @@ New
 
 Line - yada301229 
 
+Nepali -
+Sanjanar Mdy - Bkk platinum #fb
+Sheila Pradhan - Mega Bangna #fb
+Roshini Adk - Koh Samui #fb
+Jnisha Bhujel - Koh Samui #fb 
+
+
 
